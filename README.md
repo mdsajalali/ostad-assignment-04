@@ -4,7 +4,7 @@ This is a shopping cart application that allows users to add products to a cart,
 
 ## Live Website Link
 
-[Shopping Cart Website Live Preview]()
+[Shopping Cart Website Live Preview](https://sajal-ostad-shopping-cart.netlify.app/)
 
 ## Requirements
 
