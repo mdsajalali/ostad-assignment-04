@@ -32,7 +32,7 @@ body {
 
 #product-container {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   margin: 20px 0;
 }
 
@@ -131,11 +131,6 @@ body {
     margin: 0 auto;
   }
 
-  #product-container {
-    grid-template-columns: repeat(3, 1fr);
-    gap: 30px;
-  }
-
   .cartContent {
     margin: 0 auto;
   }
@@ -144,6 +139,7 @@ body {
 @media (max-width: 870px) {
   #product-container {
     grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
   }
 
   #cart-container {
